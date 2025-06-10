@@ -760,7 +760,6 @@ for label in ['KM_PCA', 'GMM_PCA', 'AGGLO_PCA', 'KM_AE', 'GMM_AE', 'AGGLO_AE']:
 
 #We statistically validated the quality of clusters across six segmentation models (PCA and AutoEncoder-based). Using ANOVA and Tukey HSD, we found that the KMeans model using AutoEncoder representations outperformed all others in clearly separating clusters by Recency, Frequency, and especially Monetary value (mean differences >123K, p < 0.001). This model not only satisfies statistical rigor but also identifies a high-value customer segment, making it the most suitable for business applications like targeted marketing and loyalty programs
 
-!pip install streamlit
 
 import streamlit as st
 import matplotlib.pyplot as plt
