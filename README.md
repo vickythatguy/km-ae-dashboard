@@ -1,6 +1,7 @@
 # 📊 Customer Segmentation Using Hybrid Clustering (KM\_AE)
 
-A capstone project focused on optimizing retail marketing strategies through intelligent customer segmentation using RFM data and hybrid ML techniques.
+A capstone project focused on optimizing retail marketing strategies through intelligent customer segmentation using RFM data and hybrid ML techniques. This includes a fully interactive Streamlit dashboard to explore segment-wise trends and visualize the clustering outcomes.
+https://km-ae-dashboard.streamlit.app/
 
 ---
 
