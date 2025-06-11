@@ -1,0 +1,13 @@
+Feature,Test,Statistic,p-value,Reject_0.05,Groups,MeanDiff
+Recency,ANOVA,6088.49,0.0,True,,
+Recency,TukeyHSD,,0.0,True,0 vs 1,217.41
+Recency,TukeyHSD,,0.0031,True,0 vs 2,-46.88
+Recency,TukeyHSD,,0.0,True,1 vs 2,-264.29
+Frequency,ANOVA,1367.651,0.0,True,,
+Frequency,TukeyHSD,,0.0,True,0 vs 1,-3.42
+Frequency,TukeyHSD,,0.0,True,0 vs 2,92.78
+Frequency,TukeyHSD,,0.0,True,1 vs 2,96.2
+Monetary,ANOVA,2892.301,0.0,True,,
+Monetary,TukeyHSD,,0.0,True,0 vs 1,-1516.21
+Monetary,TukeyHSD,,0.0,True,0 vs 2,127306.22
+Monetary,TukeyHSD,,0.0,True,1 vs 2,128822.43
